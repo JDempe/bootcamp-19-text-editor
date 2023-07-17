@@ -63,3 +63,10 @@ venv.bak/
 
 # Mac/OSX
 .DS_Store
+
+# webpack
+dist/
+
+
+assets/
+```
